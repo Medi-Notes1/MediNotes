@@ -3,7 +3,6 @@ import Footer from "../Components/Footer";
 import ChatWithTeam from "../Components/ChatWithTeam";
 import '../index.css';
 import CompatibilitySection from "../Components/CompatibilitySection";
-import { FaPhone } from 'react-icons/fa';
 import Testimonial from "../Components/Testimonial";
 import { Link } from "react-router-dom";
 
